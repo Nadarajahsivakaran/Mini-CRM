@@ -1,0 +1,64 @@
+.header {
+    background-color: blue;
+    padding: 20px 10px;
+}
+
+.header a {
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.header a:hover {
+    background-color: white;
+    color: black;
+}
+
+.signup input{
+    padding: 10px;
+}
+
+.signup {
+    margin-left: 400px;
+    margin-right: 500px;
+    padding: 20px;
+    margin-top: 130px;
+    border: 1px solid rgb(252, 225, 225);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: rgb(143, 139, 133);
+}
+
+.signup button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.right{
+    float: right;
+}
+
+.image{
+    width: 60px;
+}
+
+.image2{
+    width: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+#logout{
+    font-size: 10px;
+    
+}
+
+
